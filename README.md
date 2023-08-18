@@ -1,4 +1,4 @@
-# KFD-online Link 
+# KFD Exploit-online Link ( Without PC )
 
 Download all KFD IPA files from the Silzee KFD Exploit page. These links are PC free and open the webpage from the iPhone or iPad Safari and tap the install buttons. The KFD exploit supports iOS 15.5 to iOS 16.6 Beta 1.
 
