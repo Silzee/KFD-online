@@ -1,4 +1,4 @@
-# KFD-online Link - https://silzee.com/kfd-jailbreak/
+# KFD-online Link 
 
 Download all KFD IPA files from the Silzee KFD Exploit page. These links are PC free and open the webpage from the iPhone or iPad Safari and tap the install buttons
 
@@ -18,7 +18,9 @@ What KFD jailbreak can do at the moment?
 
 Updated KFD IPA Online Links
 
-These are the latest update KFD Online links. Make sure to open Silzee KFD exploit page from the mobile safari and tap the install button. These are not AltStore / Sideloadly / Trollstore links. Enjoy the KFD online links
+These are the latest updated KFD Online links. Make sure to open Silzee KFD exploit page from the mobile safari and tap the install button. These are not AltStore / Sideloadly / Trollstore links. Enjoy the KFD online links
+
+Download From https://silzee.com/kfd-jailbreak/
 
 1. KFD iPhone 12 Mini
 2. KFDFontOverwrite iPhone 14 Pro
