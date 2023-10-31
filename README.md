@@ -16,10 +16,6 @@ What KFD jailbreak can do at the moment?
 
 ![image](https://github.com/Silzee/KFD-online/assets/75421987/ce9d3f20-8394-45ad-8b07-32c2637b9ac1)
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 Updated KFD IPA Online Links
 
